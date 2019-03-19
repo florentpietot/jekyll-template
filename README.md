@@ -1,7 +1,7 @@
 # jekyll-template
 
-Main config: `_config.yml`
-Development config: `config-dev.yml`
+* Main config: `_config.yml`
+* Development config: `config-dev.yml`
 
 Dev server:
 
